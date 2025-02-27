@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I share my thoughts [here](https://xinke-wang.github.io/) (blogs might be in Chinese).
-
 <!--
 **xinke-wang/xinke-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
